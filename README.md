@@ -25,4 +25,4 @@ After installing dependencies, run expo start to start the Expo development serv
 Use the Expo Go app on your iOS or Android device to scan the QR code from the terminal or use an emulator to run the application.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
